@@ -1,1 +1,8 @@
 # Chiral_Project
+
+
+
+
+##Abstract
+
+ Elevated amounts of hyaluronan (HA) correlate with several types of malignancies. Levels of HA within cancer cells, on the surface of tumor cells, and in their surrounding stroma can increase with malignant progression. On the other hand, levels of hyaluronidases, the enzymes that degrade HA, are variable in cancer, in some cases elevated and in others suppressed, relative to normal tissues. This anomaly can be explained in several ways. Regulation of enzyme transcription, translation, including the production of various splices variants, and the competition between these various forms are additional sites of potential control. This chapter presents a review of the various aspects of this important class of enzymes, including what is known of their modulation. The influence of hyaluronidase digestion on the expression of CD44 is examined in a number of human cancer cell lines. Tumors previously resistant to chemotherapy become sensitive when hyaluronidase is added. The enzyme may decrease intratumoral pressure, permitting drugs to penetrate the malignancy. However, studies are available suggesting that hyaluronidase has intrinsic anti-tumor activity. Instability of the tumor genome, and the constant pressure of the Darwinian selection process of metastatic tumor cells underscore the resilience and ingenuity of malignant cells in their ability to survive and thrive. This appears to be applicable also to the cancer cells’ ability to generate different sizes of HA fragments at various points in the life of the cancer, with profoundly different effects achieved by large, intermediate, and small HA fragments.
